@@ -18,5 +18,5 @@ Within my different repositories I will be:
 ...yes,yes,yes aaand yes!
 These are my goals and I strive to achieve them :trophy:
 
-Anyone is welcome to comment, help or interest me in new projects and ideas!
+Anyone is welcome to comment, help or interest me in new projects and ideas! <br>
 I am at anyone's disposal in English, German, Russian, French, Spanish, and hopefully many more in the near future.
