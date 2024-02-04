@@ -8,7 +8,7 @@ Within my different repositories I will be:
 3. keeping my projects going with different branches, so I can share them with my fellow students :cowboy_hat_face:
 
 
-# The Checklist:
+### The Checklist:
 
 - [X] Interested and genuinely amazed at the vast Data Science and Data Analysis field?
 - [X] In love with languages and communication?
